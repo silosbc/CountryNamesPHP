@@ -1,5 +1,5 @@
 <?php
-$zho=array (
+$zho_official=array (
   'AW' => '阿鲁巴',
   'AF' => '阿富汗伊斯兰共和国',
   'AO' => '安哥拉共和国',

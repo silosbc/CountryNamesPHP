@@ -1,5 +1,5 @@
 <?php
-$hun=array (
+$hun_official=array (
   'AW' => 'Aruba',
   'AF' => 'Afganisztáni Iszlám Köztársaság',
   'AO' => 'Angola',

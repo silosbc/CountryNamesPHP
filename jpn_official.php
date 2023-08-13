@@ -1,5 +1,5 @@
 <?php
-$jpn=array (
+$jpn_official=array (
   'AW' => 'アルバ',
   'AF' => 'アフガニスタン·イスラム共和国',
   'AO' => 'アンゴラ共和国',

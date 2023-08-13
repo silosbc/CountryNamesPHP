@@ -1,5 +1,5 @@
 <?php
-$hun=array (
+$hun_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afganisztán',
   'AO' => 'Angola',

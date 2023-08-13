@@ -1,5 +1,5 @@
 <?php
-$ita=array (
+$ita_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afghanistan',
   'AO' => 'Angola',

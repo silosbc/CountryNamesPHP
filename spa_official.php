@@ -1,5 +1,5 @@
 <?php
-$spa=array (
+$spa_official=array (
   'AW' => 'Aruba',
   'AF' => 'República Islámica de Afganistán',
   'AO' => 'República de Angola',

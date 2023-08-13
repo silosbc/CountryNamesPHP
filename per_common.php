@@ -1,5 +1,5 @@
 <?php
-$per=array (
+$per_common=array (
   'AW' => 'آروبا',
   'AF' => 'افغانستان',
   'AO' => 'آنگولا',

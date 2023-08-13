@@ -1,5 +1,5 @@
 <?php
-$hrv=array (
+$hrv_official=array (
   'AW' => 'Aruba',
   'AF' => 'Islamska Republika Afganistan',
   'AO' => 'Republika Angola',

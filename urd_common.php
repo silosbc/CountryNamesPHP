@@ -1,5 +1,5 @@
 <?php
-$urd=array (
+$urd_common=array (
   'AW' => 'اروبا',
   'AF' => 'افغانستان',
   'AO' => 'انگولہ',

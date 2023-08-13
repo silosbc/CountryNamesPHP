@@ -1,5 +1,5 @@
 <?php
-$fra=array (
+$fra_official=array (
   'AW' => 'Aruba',
   'AF' => 'République islamique d\'Afghanistan',
   'AO' => 'République d\'Angola',

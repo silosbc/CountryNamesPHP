@@ -1,5 +1,5 @@
 <?php
-$rus=array (
+$rus_common=array (
   'AW' => 'Аруба',
   'AF' => 'Афганистан',
   'AO' => 'Ангола',

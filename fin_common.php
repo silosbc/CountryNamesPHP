@@ -1,5 +1,5 @@
 <?php
-$fin=array (
+$fin_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afganistan',
   'AO' => 'Angola',

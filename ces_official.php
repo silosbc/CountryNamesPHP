@@ -1,5 +1,5 @@
 <?php
-$ces=array (
+$ces_official=array (
   'AW' => 'Aruba',
   'AF' => 'Afghánská islámská republika',
   'AO' => 'Angolská republika',

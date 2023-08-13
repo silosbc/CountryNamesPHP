@@ -1,5 +1,5 @@
 <?php
-$nld=array (
+$nld_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afghanistan',
   'AO' => 'Angola',

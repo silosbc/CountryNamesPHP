@@ -1,5 +1,5 @@
 <?php
-$por=array (
+$por_official=array (
   'AW' => 'Aruba',
   'AF' => 'República Islâmica do Afeganistão',
   'AO' => 'República de Angola',

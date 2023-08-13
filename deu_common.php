@@ -1,5 +1,5 @@
 <?php
-$deu=array (
+$deu_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afghanistan',
   'AO' => 'Angola',

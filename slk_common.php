@@ -1,5 +1,5 @@
 <?php
-$slk=array (
+$slk_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afganistan',
   'AO' => 'Angola',

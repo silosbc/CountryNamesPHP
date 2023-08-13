@@ -1,5 +1,5 @@
 <?php
-$spa=array (
+$spa_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afganistán',
   'AO' => 'Angola',

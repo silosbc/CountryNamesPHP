@@ -1,5 +1,5 @@
 <?php
-$slk=array (
+$slk_official=array (
   'AW' => 'Aruba',
   'AF' => 'Afgánsky islamský štát',
   'AO' => 'Angolská republika',

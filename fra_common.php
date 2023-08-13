@@ -1,5 +1,5 @@
 <?php
-$fra=array (
+$fra_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afghanistan',
   'AO' => 'Angola',

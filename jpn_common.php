@@ -1,5 +1,5 @@
 <?php
-$jpn=array (
+$jpn_common=array (
   'AW' => 'アルバ',
   'AF' => 'アフガニスタン',
   'AO' => 'アンゴラ',

@@ -1,5 +1,5 @@
 <?php
-$swe=array (
+$swe_official=array (
   'AW' => 'Aruba',
   'AF' => 'Islamiska republiken Afghanistan',
   'AO' => 'Republiken Angola',

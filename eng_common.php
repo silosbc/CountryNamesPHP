@@ -1,5 +1,5 @@
 <?php
-$eng=array (
+$eng_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afghanistan',
   'AO' => 'Angola',

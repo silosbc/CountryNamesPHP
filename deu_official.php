@@ -1,5 +1,5 @@
 <?php
-$deu=array (
+$deu_official=array (
   'AW' => 'Aruba',
   'AF' => 'Islamische Republik Afghanistan',
   'AO' => 'Republik Angola',

@@ -1,5 +1,5 @@
 <?php
-$pol=array (
+$pol_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afganistan',
   'AO' => 'Angola',

@@ -1,5 +1,5 @@
 <?php
-$fin=array (
+$fin_official=array (
   'AW' => 'Aruba',
   'AF' => 'Afganistanin islamilainen tasavalta',
   'AO' => 'Angolan tasavalta',

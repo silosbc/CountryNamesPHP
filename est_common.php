@@ -1,5 +1,5 @@
 <?php
-$est=array (
+$est_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afganistan',
   'AO' => 'Angola',

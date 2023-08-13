@@ -1,5 +1,5 @@
 <?php
-$por=array (
+$por_common=array (
   'AW' => 'Aruba',
   'AF' => 'Afeganistão',
   'AO' => 'Angola',

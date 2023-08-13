@@ -1,5 +1,5 @@
 <?php
-$ita=array (
+$ita_official=array (
   'AW' => 'Aruba',
   'AF' => 'Repubblica islamica dell\'Afghanistan',
   'AO' => 'Repubblica dell\'Angola',

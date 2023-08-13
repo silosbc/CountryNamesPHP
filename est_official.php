@@ -1,5 +1,5 @@
 <?php
-$est=array (
+$est_official=array (
   'AW' => 'Aruba',
   'AF' => 'Afganistani Islamivabariik',
   'AO' => 'Angola Vabariik',
